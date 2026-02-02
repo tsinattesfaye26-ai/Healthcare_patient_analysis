@@ -69,7 +69,6 @@ Female | Hypertension | 2,833
 Female | Arthritis    | 2,820
 Female | Obesity      | 2,814
 Female | Cancer       | 2,743
-
 Male   | Obesity      | 3,070
 Male   | Diabetes     | 2,958
 Male   | Hypertension | 2,885
