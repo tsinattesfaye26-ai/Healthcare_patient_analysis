@@ -22,28 +22,24 @@ age_group |	medical_Condition |	patient_count
 0–17 (Minor)        | Hypertension  | 117
 0–17 (Minor)        | Diabetes      | 113
 0–17 (Minor)        | Asthma        | 99
-
 18–35 (Young Adult) | Diabetes      | 1,133
 18–35 (Young Adult) | Obesity       | 1,105
 18–35 (Young Adult) | Asthma        | 1,101
 18–35 (Young Adult) | Hypertension  | 1,099
 18–35 (Young Adult) | Arthritis     | 1,091
 18–35 (Young Adult) | Cancer        | 1,085
-
 36–55 (Middle-Aged) | Obesity       | 2,325
 36–55 (Middle-Aged) | Hypertension  | 2,286
 36–55 (Middle-Aged) | Asthma        | 2,282
 36–55 (Middle-Aged) | Diabetes      | 2,272
 36–55 (Middle-Aged) | Arthritis     | 2,236
 36–55 (Middle-Aged) | Cancer        | 2,153
-
 56–75 (Senior)      | Diabetes      | 1,856
 56–75 (Senior)      | Obesity       | 1,820
 56–75 (Senior)      | Arthritis     | 1,779
 56–75 (Senior)      | Cancer        | 1,773
 56–75 (Senior)      | Asthma        | 1,751
 56–75 (Senior)      | Hypertension  | 1,741
-
 76+ (Elderly)       | Obesity       | 505
 76+ (Elderly)       | Diabetes      | 484
 76+ (Elderly)       | Hypertension  | 475
@@ -57,6 +53,7 @@ age_group |	medical_Condition |	patient_count
 ## Q3 Are there gender differences in admission rates?
 
 Gender	| total_admissions |	percentage_of_total
+|------|------------------|-------------------|
 Female	| 16985 |	49.33
 Male	| 17445	| 50.67
 
