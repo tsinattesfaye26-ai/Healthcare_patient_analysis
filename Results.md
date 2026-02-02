@@ -15,6 +15,7 @@ Healthcare demand is concentrated in working-age and older adults
 
 ## Q2 Are certain medical conditions more common in specific age groups?
 age_group |	medical_Condition |	patient_count
+|---------|-------------------|--------------|
 0–17 (Minor)        | Obesity       | 129
 0–17 (Minor)        | Arthritis     | 123
 0–17 (Minor)        | Cancer        | 122
@@ -61,6 +62,7 @@ Male	| 17445	| 50.67
 
 -- Top 3 conditions for each gender
 Gender |  medical_Condition | frequency
+|------|--------------------|----------|
 Female | Diabetes      | 2,900
 Female | Asthma       | 2,875
 Female | Hypertension | 2,833
@@ -82,6 +84,7 @@ Male   | Asthma       | 2,820
  ## Q4 Which blood types appear most frequently?
  
 Blood_Type |	frequency	| percentage
+|----------|-----------|----------|
 A-	| 4417 |	12.83
 AB- |	4404 |	12.79
 A+ |	4327	| 12.57
