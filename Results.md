@@ -1,4 +1,4 @@
-<img width="145" height="141" alt="image" src="https://github.com/user-attachments/assets/7f04bbc0-af2b-4128-ab9e-84dbb6582014" /><img width="145" height="121" alt="image" src="https://github.com/user-attachments/assets/372f3c8b-e48f-4e1f-a84d-e87b359b26b5" /><img width="145" height="121" alt="image" src="https://github.com/user-attachments/assets/00645ffc-ab65-40ff-bae1-173d7878ace0" /><img width="145" height="81" alt="image" src="https://github.com/user-attachments/assets/14bf4bc3-558b-46fd-9050-39c1527c8ef0" /><img width="73" height="41" alt="image" src="https://github.com/user-attachments/assets/2316640a-8691-40c4-9cc4-d038c111c0dc" />## Q1 What is the age distribution of patients
+## Q1 What is the age distribution of patients
 Age_groupm |	patient_count |	percentage
 |----------|-------------|----------|
 0-17 (Minor)	| 703	| 2.04
