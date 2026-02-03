@@ -1,4 +1,4 @@
-## Q1 What is the age distribution of patients
+<img width="145" height="141" alt="image" src="https://github.com/user-attachments/assets/7f04bbc0-af2b-4128-ab9e-84dbb6582014" /><img width="145" height="121" alt="image" src="https://github.com/user-attachments/assets/372f3c8b-e48f-4e1f-a84d-e87b359b26b5" /><img width="145" height="121" alt="image" src="https://github.com/user-attachments/assets/00645ffc-ab65-40ff-bae1-173d7878ace0" /><img width="145" height="81" alt="image" src="https://github.com/user-attachments/assets/14bf4bc3-558b-46fd-9050-39c1527c8ef0" /><img width="73" height="41" alt="image" src="https://github.com/user-attachments/assets/2316640a-8691-40c4-9cc4-d038c111c0dc" />## Q1 What is the age distribution of patients
 Age_groupm |	patient_count |	percentage
 |----------|-------------|----------|
 0-17 (Minor)	| 703	| 2.04
@@ -297,7 +297,59 @@ room_Number| 	times_used
 - **Highest admissions:** 2021-December | 621  
 - **Lowest admissions (non-error):** 2019-May | 466  
 - **Trend:** Admissions are fairly stable over time, with small month-to-month fluctuations.  
-- **Observation:** Peaks tend to occur in mid-to-late year (July–December), while dips appear early in the year (January–March).  
+- **Observation:** Peaks tend to occur in mid-to-late year (July–December), while dips appear early in the year (January–March).
+##  Q11  What is the average bill amount
+| average_bill_amount|
+|--------------------|
+|25415.16 |
+
+##  Q12 Which medical conditions generate the highest costs
+medical_Condition |	total_revenue	| average_cost |
+|----------------|----------------|--------------|
+Obesity	| 151107624.5 |	25681.11
+Diabetes	| 151023341.8	| 25780.7
+Hypertension| 	145478764.7 |	25442.25
+Arthritis	| 144432197.1 | 	25468.56
+Cancer	| 141779190.6	|25299.64
+Asthma | 	141222921.3 | 	24797.7
+
+
+##  Q13  How does billing differ by admission type?
+admission_Type |	average_bill
+|-------------|--------------|
+
+Urgent	| 25474.88
+Emergency |	25417.11
+Elective	| 25353.51
+
+##  Q14 Are insured patients billed differently from uninsured?
+insurance_Provider |	average_bill
+|------------------|--------------|
+
+Medicare |	25578.59
+Aetna	| 25478.46
+Cigna	| 25478.34
+Blue Cross	| 25329
+UnitedHealthcare	|25207.11
+##  Q15 Which insurance providers cover the most patients?
+insurance_Provider	| patient_count
+|------------------|--------------|
+Medicare	 | 7060
+Cigna	| 6949
+UnitedHealthcare	| 6943
+Aetna | 	6777
+Blue Cross | 	6701
+
+##  Q16  What is the total revenue over time?
+admission_Year | 	total_annual_revenue
+|--------------|---------------------|
+2019	| 114882854.4
+2020	| 176215472.6
+2021	| 176663461.6
+2022	| 175144106.1
+2023	| 172866645.5
+2024	| 59271499.81
+
 
 
  
