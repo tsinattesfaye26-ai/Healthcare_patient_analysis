@@ -325,12 +325,12 @@ Elective	| 25353.51
 ##  Q14 Are insured patients billed differently from uninsured?
 insurance_Provider |	average_bill
 |------------------|--------------|
-
 Medicare |	25578.59
 Aetna	| 25478.46
 Cigna	| 25478.34
 Blue Cross	| 25329
 UnitedHealthcare	|25207.11
+
 ##  Q15 Which insurance providers cover the most patients?
 insurance_Provider	| patient_count
 |------------------|--------------|
