@@ -41,15 +41,4 @@ patient demographics, hospital admissions, and billing patterns.
 - Which insurance providers cover the most patients?
 - What is the total revenue over time?
 
-## 🧪 Medical & Test Results Questions
 
-- What percentage of test results are normal vs abnormal?
-- Are abnormal test results associated with higher bills?
-- Do certain conditions have higher abnormal test rates?
-
-## ⏱️ Efficiency & Performance Questions
-
-- Are longer stays linked to higher costs?
-- Which departments or admission types are least efficient?
-- Can we identify potential operational bottlenecks?
-- You do not need to answer all — answering 10–15 well is more than enough.
