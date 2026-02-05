@@ -317,7 +317,6 @@ Asthma | 	141222921.3 | 	24797.7
 ##  Q13  How does billing differ by admission type?
 admission_Type |	average_bill
 |-------------|--------------|
-
 Urgent	| 25474.88
 Emergency |	25417.11
 Elective	| 25353.51
